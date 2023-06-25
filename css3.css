@@ -1,0 +1,28 @@
+table{
+
+    margin-top: 155px;
+   
+}
+th{
+    
+padding-left: 155px;
+background-color: red;
+width: 30%;
+color: white;
+}
+
+
+td{
+    padding-left:150px;
+
+}
+h1{
+
+    font-size:55px;
+   margin-left: 45%;
+   margin-top: 7%;
+}
+p{
+    float: right;
+    font-size: 25px;
+}

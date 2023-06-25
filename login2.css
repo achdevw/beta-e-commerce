@@ -1,0 +1,72 @@
+#login{
+
+   margin-top: 200px;
+
+}
+body{
+
+    background-color: whites;
+}
+
+.border{
+   
+    padding-left: 130px;
+    padding-right: 120px;
+    
+    padding-top: 45px;
+    padding-bottom: 30px;
+    background-image: url(USI.png) ;
+    background-size: cover;
+    background-position: center;
+    ,
+    height: 550px;
+}
+.btn{
+
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.container{
+    margin-top: 200px;
+}
+.mb-3{
+
+
+    margin-left: 25px;
+}
+span{
+    color: red;
+}
+h1{
+
+     font-size: 80px;
+     margin-left: 25px;
+     color: rgb(0, 0, 0);
+}
+body{
+    background-image: url(R2.jpeg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+  
+    
+ 
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a :hover{
+
+    color: white;
+}
+label{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+h2{
+
+    color: white;
+    font-size: 25px;
+}
+

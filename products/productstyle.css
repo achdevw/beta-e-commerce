@@ -1,0 +1,82 @@
+#iphoneDetail 
+{
+    display: flex;
+    margin-top: 20px;
+}
+
+#iphoneDetail .single-pro-image
+{
+    width: 25%;
+    margin-right:50px ;
+    margin-left: 120px;
+
+}
+.small-img-group
+{
+    display: flex;
+    justify-content: space-between;
+
+}
+.small-img-col
+{
+    flex-basis: 24%;
+    cursor: pointer;
+}
+
+#iphoneDetail .single-pro-details
+{
+  width: 50%;
+  padding-top:30px;
+}
+
+
+#iphoneDetail .single-pro-details h4
+{
+    padding: 40px 0 20px 0;
+}
+#iphoneDetail .single-pro-details h2
+{
+    font-size:26px;
+}
+
+#iphoneDetail .single-pro-details select
+{
+   display:  block;
+   padding: 5px 10px;
+   margin-bottom: 10px;
+}
+
+#iphoneDetail .single-pro-details input :focus
+{
+      outline: none;
+}
+
+#iphoneDetail .single-pro-details input
+{
+    width: 50px;
+    height: 47px;
+    padding-left: 10px;
+    font-size: 18px;
+    margin-right: 10px;
+}
+#iphoneDetail .single-pro-details button
+{
+    background-color: #DF1111;
+    color: #fff;
+}
+#iphoneDetail .single-pro-details button:hover
+{
+    background-color: white;
+    color: #DF1111;
+}
+
+#iphoneDetail .single-pro-details span
+{
+    line-height: 50px;
+    font-size: 20px;
+}
+
+.barre {
+    text-decoration:line-through;
+    color: #D4D1CC;
+}
